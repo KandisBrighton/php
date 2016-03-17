@@ -1,0 +1,41 @@
+            body{
+                margin: 0 200px 0 200px;
+                background-color: red;
+                font-size:12pt;
+            }
+            #main {
+                background-color:white;
+                height: 100%;
+                padding: 1em 5em 3em 5em;
+            }
+
+            #summary {
+                background-color:white;
+                height: 100%;
+                padding: 1em 5em 3em 5em;
+            }
+            #summary p {
+                color: red;
+                font-size : 16pt;
+            }
+            h1 {
+                color:darkgreen;
+                font-family:arial;
+                font-size: 44pt;
+            }
+            fieldset{
+                margin-bottom: 1.5em;
+                border-color:darkgreen;
+                padding: 1em;
+            }
+            legend {
+                font-weight:bold;
+                color:darkgreen;
+                font-variant:small-caps;
+                font-size: 14pt;
+            }
+            #submit {
+                font-size: 18pt;
+                font-weight:bold;
+            }
+    

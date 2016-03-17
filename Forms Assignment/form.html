@@ -1,0 +1,27 @@
+<!--  Kandis Brighton IT 305 assignment Assn 5a - forms form.html
+An html form that asks for name, year of birth, and credit card number
+Then use process.php to process the data.
+-->
+<!DOCTPE html>
+<html lang = "en">
+<head>
+    <meta charset="utf-8">
+    <title>Form</title>
+</head>
+<body>
+    <form method="get" action="process.php">
+        <label>Please enter your first name:
+            <input type="text" name="first" size="20">
+        </label><br>
+        
+        <label>Year of birth:
+            <input type="text" name="year" size="4" maxlength="4">
+        </label><br>
+        
+        <label>Credit card number:
+            <input type="text" name="ccnum" size="20" maxlength="20">
+        </label><br><br>
+        
+        <input type="submit" value="Validate">
+    </form>
+</body>

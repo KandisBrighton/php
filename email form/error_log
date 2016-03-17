@@ -1,0 +1,23 @@
+[09-Feb-2016 12:09:59 America/Chicago] PHP Parse error:  syntax error, unexpected '')) : ?>' (T_CONSTANT_ENCAPSED_STRING) in /home/kbrighton/public_html/305/php/email form/contact.php on line 43
+[09-Feb-2016 12:10:00 America/Chicago] PHP Parse error:  syntax error, unexpected '')) : ?>' (T_CONSTANT_ENCAPSED_STRING) in /home/kbrighton/public_html/305/php/email form/contact.php on line 43
+[09-Feb-2016 14:11:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/kbrighton/public_html/305/php/email form/contact.php on line 77
+[09-Feb-2016 14:11:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/kbrighton/public_html/305/php/email form/contact.php on line 77
+[09-Feb-2016 14:49:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/kbrighton/public_html/305/php/email form/includes/process_mail.php on line 8
+[09-Feb-2016 15:00:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/kbrighton/public_html/305/php/email form/contact.php on line 23
+[09-Feb-2016 15:01:40 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/kbrighton/public_html/305/php/email form/contact.php on line 23
+[09-Feb-2016 15:02:06 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/kbrighton/public_html/305/php/email form/contact.php on line 23
+[09-Feb-2016 15:13:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/kbrighton/public_html/305/php/email form/contact.php on line 71
+[09-Feb-2016 15:15:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/kbrighton/public_html/305/php/email form/contact.php on line 71
+[09-Feb-2016 15:17:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/kbrighton/public_html/305/php/email form/contact.php on line 71
+[09-Feb-2016 16:21:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'Headers' (T_STRING), expecting ',' or ';' in /home/kbrighton/public_html/305/php/email form/contact.php on line 83
+[09-Feb-2016 17:06:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/kbrighton/public_html/305/php/email form/contact.php on line 90
+[09-Feb-2016 19:45:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kbrighton/public_html/305/php/email form/includes/process_mail.php:67) in /home/kbrighton/public_html/305/php/email form/contact9.php on line 16
+[09-Feb-2016 21:51:39 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/kbrighton/public_html/305/php/email form/contact.php on line 31
+[09-Feb-2016 21:58:47 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/kbrighton/public_html/305/php/email form/contact.php on line 31
+[09-Feb-2016 21:59:03 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/kbrighton/public_html/305/php/email form/contact.php on line 31
+[09-Feb-2016 22:28:57 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/kbrighton/public_html/305/php/email form/process_mail.php on line 40
+[09-Feb-2016 22:28:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kbrighton/public_html/305/php/email form/process_mail.php on line 43
+[10-Feb-2016 19:37:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kbrighton/public_html/305/php/email form/includes/process_mail.php:59) in /home/kbrighton/public_html/305/php/email form/contact.php on line 19
+[10-Feb-2016 19:39:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kbrighton/public_html/305/php/email form/includes/process_mail.php:59) in /home/kbrighton/public_html/305/php/email form/contact9.php on line 16
+[10-Feb-2016 19:40:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kbrighton/public_html/305/php/email form/includes/process_mail.php:74) in /home/kbrighton/public_html/305/php/email form/contact9.php on line 16
+[10-Feb-2016 19:41:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kbrighton/public_html/305/php/email form/includes/process_mail.php:74) in /home/kbrighton/public_html/305/php/email form/contact9.php on line 16

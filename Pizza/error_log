@@ -1,0 +1,31 @@
+[01-Feb-2016 13:34:20 America/Chicago] PHP Warning:  include(pizza/includes/pizzaFunctions.php): failed to open stream: No such file or directory in /home/kbrighton/public_html/305/Pizza/index.php on line 8
+[01-Feb-2016 13:34:20 America/Chicago] PHP Warning:  include(pizza/includes/pizzaFunctions.php): failed to open stream: No such file or directory in /home/kbrighton/public_html/305/Pizza/index.php on line 8
+[01-Feb-2016 13:34:20 America/Chicago] PHP Warning:  include(): Failed opening 'pizza/includes/pizzaFunctions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/kbrighton/public_html/305/Pizza/index.php on line 8
+[01-Feb-2016 13:35:29 America/Chicago] PHP Warning:  include(pizza/includes/pizzaFunctions.php): failed to open stream: No such file or directory in /home/kbrighton/public_html/305/Pizza/index.php on line 8
+[01-Feb-2016 13:35:29 America/Chicago] PHP Warning:  include(pizza/includes/pizzaFunctions.php): failed to open stream: No such file or directory in /home/kbrighton/public_html/305/Pizza/index.php on line 8
+[01-Feb-2016 13:35:29 America/Chicago] PHP Warning:  include(): Failed opening 'pizza/includes/pizzaFunctions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/kbrighton/public_html/305/Pizza/index.php on line 8
+[01-Feb-2016 13:36:35 America/Chicago] PHP Warning:  include(Pizza/includes/pizzaFunctions.php): failed to open stream: No such file or directory in /home/kbrighton/public_html/305/Pizza/index.php on line 8
+[01-Feb-2016 13:36:35 America/Chicago] PHP Warning:  include(Pizza/includes/pizzaFunctions.php): failed to open stream: No such file or directory in /home/kbrighton/public_html/305/Pizza/index.php on line 8
+[01-Feb-2016 13:36:35 America/Chicago] PHP Warning:  include(): Failed opening 'Pizza/includes/pizzaFunctions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/kbrighton/public_html/305/Pizza/index.php on line 8
+[01-Feb-2016 13:36:58 America/Chicago] PHP Warning:  include(/includes/pizzaFunctions.php): failed to open stream: No such file or directory in /home/kbrighton/public_html/305/Pizza/index.php on line 8
+[01-Feb-2016 13:36:58 America/Chicago] PHP Warning:  include(): Failed opening '/includes/pizzaFunctions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/kbrighton/public_html/305/Pizza/index.php on line 8
+[01-Feb-2016 14:39:24 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/kbrighton/public_html/305/Pizza/index.php on line 41
+[01-Feb-2016 16:16:08 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/kbrighton/public_html/305/Pizza/index.php on line 44
+[01-Feb-2016 17:51:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/kbrighton/public_html/305/Pizza/includes/pizzaFunctions.php on line 34
+[01-Feb-2016 17:57:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/kbrighton/public_html/305/Pizza/index.php on line 63
+[01-Feb-2016 18:18:58 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/kbrighton/public_html/305/Pizza/includes/pizzaFunctions.php on line 35
+[01-Feb-2016 18:28:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/kbrighton/public_html/305/Pizza/index.php on line 80
+[01-Feb-2016 18:31:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/kbrighton/public_html/305/Pizza/index.php on line 81
+[01-Feb-2016 18:32:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/kbrighton/public_html/305/Pizza/index.php on line 81
+[02-Feb-2016 23:52:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'of' (T_STRING) in /home/kbrighton/public_html/305/Pizza/index.php on line 103
+[02-Feb-2016 23:55:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kbrighton/public_html/305/Pizza/index.php on line 103
+[03-Feb-2016 00:42:45 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/kbrighton/public_html/305/Pizza/index.php on line 107
+[03-Feb-2016 01:12:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kbrighton/public_html/305/Pizza/index.php on line 105
+[03-Feb-2016 01:15:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kbrighton/public_html/305/Pizza/index.php on line 109
+[03-Feb-2016 01:17:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kbrighton/public_html/305/Pizza/index.php on line 109
+[03-Feb-2016 01:20:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kbrighton/public_html/305/Pizza/index.php on line 109
+[03-Feb-2016 01:22:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kbrighton/public_html/305/Pizza/index.php on line 110
+[03-Feb-2016 01:24:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kbrighton/public_html/305/Pizza/index.php on line 110
+[03-Feb-2016 01:29:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/kbrighton/public_html/305/Pizza/index.php on line 111
+[03-Feb-2016 01:31:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/kbrighton/public_html/305/Pizza/index.php on line 125
+[03-Feb-2016 01:32:28 America/Chicago] PHP Warning:  Illegal string offset 'i' in /home/kbrighton/public_html/305/Pizza/index.php on line 112

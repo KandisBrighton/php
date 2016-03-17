@@ -1,0 +1,28 @@
+[25-Jan-2016 17:50:07 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/kbrighton/public_html/305/php/Strings.php on line 16
+[25-Jan-2016 17:52:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/kbrighton/public_html/305/php/Strings.php on line 17
+[25-Jan-2016 17:52:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/kbrighton/public_html/305/php/Strings.php on line 17
+[25-Jan-2016 18:37:58 America/Chicago] PHP Notice:  Undefined variable: localVar in /home/kbrighton/public_html/305/php/Strings.php on line 78
+[25-Jan-2016 18:39:36 America/Chicago] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/kbrighton/public_html/305/php/Strings.php on line 87
+[25-Jan-2016 21:32:58 America/Chicago] PHP Fatal error:  Call to undefined function hi there() in /home/kbrighton/public_html/305/php/Strings.php on line 87
+[26-Jan-2016 16:27:26 America/Chicago] PHP Notice:  Use of undefined constant num - assumed 'num' in /home/kbrighton/public_html/305/php/practice.php on line 17
+[26-Jan-2016 16:27:26 America/Chicago] PHP Notice:  Use of undefined constant num - assumed 'num' in /home/kbrighton/public_html/305/php/practice.php on line 21
+[26-Jan-2016 16:27:26 America/Chicago] PHP Notice:  Use of undefined constant num - assumed 'num' in /home/kbrighton/public_html/305/php/practice.php on line 17
+[26-Jan-2016 16:27:26 America/Chicago] PHP Notice:  Use of undefined constant num - assumed 'num' in /home/kbrighton/public_html/305/php/practice.php on line 21
+[26-Jan-2016 20:01:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/kbrighton/public_html/305/php/practice.php on line 55
+[26-Jan-2016 20:01:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/kbrighton/public_html/305/php/practice.php on line 55
+[26-Jan-2016 20:07:02 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/kbrighton/public_html/305/php/practice.php on line 94
+[26-Jan-2016 20:08:20 America/Chicago] PHP Warning:  end() expects parameter 1 to be array, null given in /home/kbrighton/public_html/305/php/practice.php on line 61
+[26-Jan-2016 20:08:20 America/Chicago] PHP Notice:  Undefined index:  in /home/kbrighton/public_html/305/php/practice.php on line 61
+[26-Jan-2016 20:11:24 America/Chicago] PHP Warning:  end() expects parameter 1 to be array, null given in /home/kbrighton/public_html/305/php/practice.php on line 61
+[26-Jan-2016 20:11:24 America/Chicago] PHP Notice:  Undefined index:  in /home/kbrighton/public_html/305/php/practice.php on line 61
+[26-Jan-2016 20:12:04 America/Chicago] PHP Notice:  Undefined index: David in /home/kbrighton/public_html/305/php/practice.php on line 61
+[26-Jan-2016 20:12:57 America/Chicago] PHP Notice:  Undefined index: David in /home/kbrighton/public_html/305/php/practice.php on line 62
+[26-Jan-2016 20:15:17 America/Chicago] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/kbrighton/public_html/305/php/practice.php on line 62
+[26-Jan-2016 20:15:17 America/Chicago] PHP Notice:  Undefined offset: -1 in /home/kbrighton/public_html/305/php/practice.php on line 62
+[26-Jan-2016 20:21:08 America/Chicago] PHP Notice:  Undefined variable: animals in /home/kbrighton/public_html/305/php/practice.php on line 63
+[26-Jan-2016 20:21:08 America/Chicago] PHP Notice:  Undefined variable: animals in /home/kbrighton/public_html/305/php/practice.php on line 65
+[26-Jan-2016 20:22:15 America/Chicago] PHP Notice:  Use of undefined constant last - assumed 'last' in /home/kbrighton/public_html/305/php/practice.php on line 65
+[26-Jan-2016 20:22:15 America/Chicago] PHP Notice:  Undefined index: last in /home/kbrighton/public_html/305/php/practice.php on line 65
+[26-Jan-2016 20:54:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/kbrighton/public_html/305/php/practice.php on line 59
+[26-Jan-2016 22:06:12 America/Chicago] PHP Parse error:  syntax error, unexpected '" .  Grade: "' (T_CONSTANT_ENCAPSED_STRING) in /home/kbrighton/public_html/305/php/practice.php on line 94
+[26-Jan-2016 22:09:25 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/kbrighton/public_html/305/php/practice.php on line 94
